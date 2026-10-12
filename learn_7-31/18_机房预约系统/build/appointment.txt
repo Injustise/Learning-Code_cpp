@@ -1,0 +1,4 @@
+data:1 interval:1 stuID:20260101 stuName:’≈æ∫∫Ω room:1 status:2
+data:2 interval:1 stuID:20260101 stuName:’≈æ∫∫Ω room:1 status:1
+data:3 interval:2 stuID:20260101 stuName:’≈æ∫∫Ω room:2 status:4
+data:1 interval:1 stuID:20260201 stuName:–¶–¶ room:1 status:3
