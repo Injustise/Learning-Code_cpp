@@ -28,7 +28,6 @@ string generateTimeID() {
 
 int main() {
 
-    
     int num = 0;
     cin >> num;
     while(num--) {
